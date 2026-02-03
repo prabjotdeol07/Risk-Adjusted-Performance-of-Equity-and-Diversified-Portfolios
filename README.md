@@ -34,10 +34,6 @@ The start date is chosen to ensure a consistent and reliable history for both as
 - Equity curves are constructed to visualize cumulative growth  
 - Volatility and drawdowns are assessed through realized performance  
 
-<p align="center">
-  <img src="./images/Equity%20Curve.png" width="800">
-</p>
-
 ---
 
 ### Monte Carlo Simulation
@@ -47,9 +43,6 @@ The start date is chosen to ensure a consistent and reliable history for both as
 - The simulation horizon is matched to the historical dataset (**~21 years**)  
 - Simulated equity paths are used to analyze the distribution of long-term outcomes rather than a single realized path  
 
-<p align="center">
-  <img src="./images/Monte%20Carlo%20Simulation.png" width="800">
-</p>
 
 ---
 
@@ -71,9 +64,6 @@ The start date is chosen to ensure a consistent and reliable history for both as
 
 These results indicate that, over long horizons, a diversified portfolio has a very high likelihood of preserving and growing capital, while still exhibiting meaningful dispersion across possible outcomes.
 
-<p align="center">
-  <img src="./images/Final%20Value%20Histogram.png" width="800">
-</p>
 
 ---
 
